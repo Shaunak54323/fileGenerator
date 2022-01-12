@@ -14,6 +14,9 @@ python-docx
 or install requirements.txt: 
 `pip install -r requirements.txt`
 
+
+You need to diable windows defender or antivirus to run this exe file.
+
 This program is a exploit.
 
 This code is for educational purpose only.
